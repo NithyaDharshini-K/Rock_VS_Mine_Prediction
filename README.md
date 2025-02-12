@@ -2,7 +2,10 @@
 
 This machine learning project predicts whether an object underwater is a **Rock** or a **Mine** using **Logistic Regression**.  
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lZAm9SkU4u4YsAKGQ7weJQvT7NfHTeSm?usp=sharing)  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lZAm9SkU4u4YsAKGQ7weJQvT7NfHTeSm?usp=sharing)
+
+## 📂 Project Repository  
+🔗 [GitHub Repository](https://github.com/NithyaDharshini-K/Rock_VS_Mine_Prediction)  
 
 ## 🚀 About the Project  
 Sonar technology is widely used to detect underwater objects, but manually analyzing sonar data is challenging.  
